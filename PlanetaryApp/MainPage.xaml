@@ -9,9 +9,9 @@
             <DataTemplate>
                 <TextCell 
                 Text="{Binding Name}" 
-                TextColor="Black" 
+                TextColor="Green" 
                 Detail="{Binding Distance}"
-                DetailColor="Red"/>
+                DetailColor="Fuchsia" />
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
